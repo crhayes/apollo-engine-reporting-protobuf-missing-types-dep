@@ -1,0 +1,17 @@
+{
+  "name": "apollo-engine-reporting-protobuf-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc src/index.ts --outDir ./dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "12.12.14",
+    "apollo-engine-reporting-protobuf": "0.4.4",
+    "typescript": "3.7.2"
+  }
+}
